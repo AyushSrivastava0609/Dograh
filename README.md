@@ -58,26 +58,5 @@ If required, create a `.env` file in both `frontend` and `backend` directories a
 
 ---
 
-## 🎯 Useful Commands
 
-### 📌 Frontend
-```sh
-npm run build   # Build for production
-npm start       # Start production server
-```
-
-### 📌 Backend
-```sh
-nodemon index.js  # Start backend with live reload (if using nodemon)
-```
-
----
-
-## 📌 Notes
-- Ensure both frontend and backend servers are running simultaneously.
-- If you face any issues, check logs and ensure ports are not blocked.
-
----
-
-## ✨ Happy Coding! 🚀
 
