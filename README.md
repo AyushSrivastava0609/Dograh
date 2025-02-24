@@ -53,10 +53,6 @@ This will start the Express server at:
 
 ---
 
-## 🛠️ Environment Variables (Optional)
-If required, create a `.env` file in both `frontend` and `backend` directories and add the necessary environment variables.
-
----
 
 
 
